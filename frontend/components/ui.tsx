@@ -1,3 +1,5 @@
+"use client";
+
 import { ArrowRight, LoaderCircle, RefreshCw, Sparkles } from "lucide-react";
 
 export function Logo() {
